@@ -1,0 +1,9 @@
+C:\Root Folder\Day06\LabExrercise\RestClassLib\obj\Debug\netstandard2.0\RestClassLib.csprojAssemblyReference.cache
+C:\Root Folder\Day06\LabExrercise\RestClassLib\obj\Debug\netstandard2.0\RestClassLib.AssemblyInfoInputs.cache
+C:\Root Folder\Day06\LabExrercise\RestClassLib\obj\Debug\netstandard2.0\RestClassLib.AssemblyInfo.cs
+C:\Root Folder\Day06\LabExrercise\RestClassLib\obj\Debug\netstandard2.0\RestClassLib.csproj.CoreCompileInputs.cache
+C:\Root Folder\Day06\LabExrercise\RestClassLib\bin\Debug\netstandard2.0\RestClassLib.deps.json
+C:\Root Folder\Day06\LabExrercise\RestClassLib\bin\Debug\netstandard2.0\RestClassLib.dll
+C:\Root Folder\Day06\LabExrercise\RestClassLib\bin\Debug\netstandard2.0\RestClassLib.pdb
+C:\Root Folder\Day06\LabExrercise\RestClassLib\obj\Debug\netstandard2.0\RestClassLib.dll
+C:\Root Folder\Day06\LabExrercise\RestClassLib\obj\Debug\netstandard2.0\RestClassLib.pdb
